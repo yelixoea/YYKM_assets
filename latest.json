@@ -1,46 +1,89 @@
 {
-    "tag_name": "v3.6.0",
+    "tag_name": "v3.6.1",
     "assets": [
         {
-            "name": "television-3.6.0-original-basic-release-all.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-basic-release-all.apk"
+            "name": "television-3.6.1-original-basic-release-all.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-basic-release-all.apk"
         },
         {
-            "name": "television-3.6.0-original-basic-release-arm64-v8a.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-basic-release-arm64-v8a.apk"
+            "name": "television-3.6.1-original-basic-release-arm64-v8a.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-basic-release-arm64-v8a.apk"
         },
         {
-            "name": "television-3.6.0-original-basic-release-armeabi-v7a.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-basic-release-armeabi-v7a.apk"
+            "name": "television-3.6.1-original-basic-release-armeabi-v7a.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-basic-release-armeabi-v7a.apk"
         },
         {
-            "name": "television-3.6.0-original-basic-release-x86_64.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-basic-release-x86_64.apk"
+            "name": "television-3.6.1-original-basic-release-x86_64.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-basic-release-x86_64.apk"
         },
         {
-            "name": "television-3.6.0-original-basic-release-x86.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-basic-release-x86.apk"
+            "name": "television-3.6.1-original-basic-release-x86.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-basic-release-x86.apk"
+        },
+
+        {
+            "name": "television-3.6.1-original-complete-release-all.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-complete-release-all.apk"
         },
         {
-            "name": "television-3.6.0-original-variant-release-all.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-variant-release-all.apk"
+            "name": "television-3.6.1-original-complete-release-arm64-v8a.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-complete-release-arm64-v8a.apk"
         },
         {
-            "name": "television-3.6.0-original-variant-release-arm64-v8a.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-variant-release-arm64-v8a.apk"
+            "name": "television-3.6.1-original-complete-release-armeabi-v7a.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-complete-release-armeabi-v7a.apk"
         },
         {
-            "name": "television-3.6.0-original-variant-release-armeabi-v7a.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-variant-release-armeabi-v7a.apk"
+            "name": "television-3.6.1-original-complete-release-x86_64.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-variant-release-x86_64.apk"
         },
         {
-            "name": "television-3.6.0-original-variant-release-x86_64.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-variant-release-x86_64.apk"
+            "name": "television-3.6.1-original-complete-release-x86.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-original-complete-release-x86.apk"
+        },
+        
+
+        {
+            "name": "television-3.6.1-variant-basic-release-all.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-basic-release-all.apk"
         },
         {
-            "name": "television-3.6.0-original-variant-release-x86.apk",
-            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.0/television-3.6.0-original-variant-release-x86.apk"
+            "name": "television-3.6.1-variant-basic-release-arm64-v8a.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-basic-release-arm64-v8a.apk"
+        },
+        {
+            "name": "television-3.6.1-variant-basic-release-armeabi-v7a.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-basic-release-armeabi-v7a.apk"
+        },
+        {
+            "name": "television-3.6.1-variant-basic-release-x86_64.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-basic-release-x86_64.apk"
+        },
+        {
+            "name": "television-3.6.1-variant-basic-release-x86.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-basic-release-x86.apk"
+        },
+        {
+            "name": "television-3.6.1-variant-complete-release-all.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-complete-release-all.apk"
+        },
+        {
+            "name": "television-3.6.1-variant-complete-release-arm64-v8a.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-complete-release-arm64-v8a.apk"
+        },
+        {
+            "name": "television-3.6.1-variant-complete-release-armeabi-v7a.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-complete-release-armeabi-v7a.apk"
+        },
+        {
+            "name": "television-3.6.1-variant-complete-release-x86_64.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-variant-release-x86_64.apk"
+        },
+        {
+            "name": "television-3.6.1-variant-complete-release-x86.apk",
+            "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.1/television-3.6.1-variant-complete-release-x86.apk"
         }
     ],
-    "body": "v3.6.0"
+    "body": "- 支持在订阅源链接中设置播放器相关参数。\n- ijk播放器支持应用代理设置。\n- mpv播放器支持应用代理设置、http参数设置。\n- mpv播放器支持旋转视频。\n\n- 更换图标为橙色。\n- 优化频道信息界面显示逻辑。\n- 当没有收藏、最近观看、预约时首页相应组件隐藏。\n\n- 修复节目单匹配问题，修复xml节目单解析异常。\n- 修复同步链接base64编码逻辑错误。\n- 修复mpv播放器无法播放问题。"
 }
