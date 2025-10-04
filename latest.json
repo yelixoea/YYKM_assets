@@ -85,5 +85,5 @@
             "browser_download_url": "https://gitee.com/yelixoea/YYKM_assets/releases/download/v3.6.3/television-3.6.3-variant-complete-release-x86.apk"
         }
     ],
-    "body": "- mpv支持自定义参数设置。\n- rtsp链接添加默认回放参数。\n- 搜索界面添加按键监听。\n- 新增webview内核选择。\n\n- 优化播放器优先级。\n\n- 修复默认更新链接错误。\n- 修复mpv在部分设备上兼容性问题。\n- 修复选台界面节目单数据异常加载。\n- 修复选台界面焦点问题。\n- 修复应用网页无法打开推送页面。\n- 修复推送页面部分css兼容性。\n- 修复选台界面频道详情无法打开。\n- 修复多屏同播界面无法退出。\n- 修复推送服务api异常导致应用崩溃。\n- 修复多屏同播播放webview源崩溃。"
+    "body": "新增频道分组密码\n新增系统播放器\n推送页面新增一些参数\n优化media3、ijk、mpv播放器\nmedia3、ijk、mpv支持rtmp\n修复已知问题"
 }
