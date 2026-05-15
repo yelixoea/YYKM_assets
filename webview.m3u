@@ -37,9 +37,9 @@ webview://https://tv.cctv.com/live/cctv15/
 webview://https://tv.cctv.com/live/cctv16/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="🎥央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-17 农业农村
 webview://https://tv.cctv.com/live/cctv17/
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4oz.png" group-title="🎥央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (欧)
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/-CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="🎥央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (欧)
 webview://https://tv.cctv.com/live/cctveurope/index.shtml
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4mz.png" group-title="🎥央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (美)
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/-CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="🎥央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (美)
 webview://https://tv.cctv.com/live/cctvamerica/index.shtml
 
 # 📽️央视频
